@@ -3,4 +3,13 @@
     <string name="home">Home</string>
     <string name="wardrobe">Wardrobe</string>
     <string name="outfits">Outfits</string>
+    <string name="category_t_shirts">T-shirts</string>
+    <string name="category_pants">Pants</string>
+    <string name="category_hoodies">Hoodies</string>
+    <string name="category_jackets">Jackets</string>
+    <string name="category_shoes">Shoes</string>
+    <string name="category_accessories">Accessories</string>
+    <string name="my_wardrobe">My Wardrobe</string>
+    <string name="no_items_yet">No items yet</string>
+    <string name="back_to_categories">Back to categories</string>
 </resources>
